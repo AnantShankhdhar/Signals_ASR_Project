@@ -15,8 +15,10 @@
   * DeepSpeech -  It is a multi layer BiLSTM model which utilizes the CTC loss. We will train the model on Common Voice Dataset made available by the   Mozilla Foundation.
   * Wav2Vec2 - It is the state of the art transformer based model released by Facebook. Pretrained model is available which can also be used
 
-* Datasets - 
- * The Common Voice dataset consists of a unique MP3 and corresponding text file. 
- The dataset is available for 96 languages but we will use the English split.
+* Datasets:-
+  * The Common Voice dataset consists of a unique MP3 and corresponding text file. 
+The dataset is available for 96 languages but we will use the English split.
+
+ 
 
 
