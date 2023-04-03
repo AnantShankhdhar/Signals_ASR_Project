@@ -19,6 +19,13 @@
   * The Common Voice dataset consists of a unique MP3 and corresponding text file. 
 The dataset is available for 96 languages but we will use the English split.
 
- 
+## Experiments with ASR ##
+* Evaluating performance of state-of-the-art ASR model with different:- 
+ * Sampling rates
+ * Bits for storage of samples.
+* Performance metrics:-
+ * Word Error Rate
+ * Levenshtein Distance
+
 
 
