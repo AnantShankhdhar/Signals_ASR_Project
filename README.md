@@ -20,8 +20,12 @@
 The dataset is available for 96 languages but we will use the English split.
 
 ## Experiments with ASR ##
-* Evaluating performance of state-of-the-art ASR model with different:-
- * Sampling Rates
+* Evaluating performance of state-of-the-art ASR model with different:- 
+  * Sampling Rates
+  * Bits for storage of Samples
+* Performance metrics:-
+  * Word Error Rate
+  * Levenshtein Distance
 
 
 
