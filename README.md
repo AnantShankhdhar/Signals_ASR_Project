@@ -27,5 +27,8 @@ The dataset is available for 96 languages but we will use the English split.
   * Word Error Rate
   * Levenshtein Distance
 
+## Text Analysis ##
+* Once the text is extracted from the audio, we will perform the following analysis on the text
+  * Sentiment Analysis - This feature will help us know whether the content is of positive or negative sentiment. Can be done using either simple classifier like random forest, SVM etc or using pretrained or training DL models.
 
 
