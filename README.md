@@ -15,8 +15,7 @@ The objective of this project is to explore the domain of machine learning and d
 
 ### Background: ###
 Automatic Speech Recognition (ASR) is a technology that enables machines to understand and interpret human speech. It uses algorithms to convert spoken language into written text, which can then be analyzed or used to perform a variety of tasks, such as controlling devices or responding to user requests.
-Sentiment analysis, also known as opinion mining, is a subfield of natural language processing (NLP) that focuses on identifying and extracting subjective information from text. The goal of sentiment analysis is to determine the sentiment or emotion expressed in a piece of text, whether it's positive, negative, or neutral.
-Recent advancements in deep learning and neural networks have led to significant improvements in the accuracy and efficiency of sentiment analysis algorithms. Combined with ASR, sentiment analysis can be applied to analyze spoken language, providing valuable insights into customer sentiment and feedback in real-time.
+Sentiment analysis, also known as opinion mining, is a subfield of natural language processing (NLP) that focuses on identifying and extracting subjective information from text. The goal of sentiment analysis is to determine the sentiment or emotion expressed in a piece of text, whether it's positive, negative, or neutral. Recent advancements in deep learning and neural networks have led to significant improvements in the accuracy and efficiency of sentiment analysis algorithms. Combined with ASR, sentiment analysis can be applied to analyze spoken language, providing valuable insights into customer sentiment and feedback in real-time.
 
 ### Methodology: ###
 #### Automatic Speech Recognition ####
