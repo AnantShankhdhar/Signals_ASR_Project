@@ -8,7 +8,8 @@
 
 ## Project Title: Voice Analytics Toolkit ##
 
-### Objective: ### The objective of this project is to explore the domain of machine learning and deep learning for the task of automatic speech recognition, this involves extracting features from speech data and then applying various deeplearning techniques to get the text out of speech data. We will also compare the performance, by varying sampling rate and bit rate of data. We will finally carry out sentiment analysis on the text obtained and provide an api for the same.
+### Objective: ### 
+The objective of this project is to explore the domain of machine learning and deep learning for the task of automatic speech recognition, this involves extracting features from speech data and then applying various deeplearning techniques to get the text out of speech data. We will also compare the performance, by varying sampling rate and bit rate of data. We will finally carry out sentiment analysis on the text obtained and provide an api for the same.
 
 ### Background: ###
 Automatic Speech Recognition (ASR) is a technology that enables machines to understand and interpret human speech. It uses algorithms to convert spoken language into written text, which can then be analyzed or used to perform a variety of tasks, such as controlling devices or responding to user requests.
@@ -29,7 +30,8 @@ Recent advancements in deep learning and neural networks have led to significant
   * Word Error Rate :-  the number of insertions, deletions, and substitutions for words made by the ASR system. (It deals in words)
   * Levenshtein Distance :- is a metric used to measure the difference between two strings of characters. It calculates the minimum number of insertions, deletions, and substitutions needed to transform one string into the other. (It deals in charaters)
 
-### Deliverables: ### * An .ipynb notebook containing a detailed analysis, graphs and comparison between models trained using different parametes.  * A GitHub repository containing the source code and documentation of the project. * An oral presentation in class. * An spi that performs analysis of audio data on command
+### Deliverables: ### 
+* An .ipynb notebook containing a detailed analysis, graphs and comparison between models trained using different parametes.  * A GitHub repository containing the source code and documentation of the project. * An oral presentation in class. * An spi that performs analysis of audio data on command
 
 ### Dataset to be used: ###
 1. Common Voice is a large, public dataset of voice recordings and their transcriptions, created and maintained by Mozilla, the non-profit organization behind the Firefox web browser. The dataset is intended to be used for research and development of Automatic Speech Recognition (ASR) systems.
