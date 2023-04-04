@@ -37,7 +37,6 @@ Recent advancements in deep learning and neural networks have led to significant
 
 ### Dataset to be used: ###
 1. Common Voice is a large, public dataset of voice recordings and their transcriptions, created and maintained by Mozilla, the non-profit organization behind the Firefox web browser. The dataset is intended to be used for research and development of Automatic Speech Recognition (ASR) systems.
-
 The Common Voice dataset includes recordings of people speaking in various languages, accents, and dialects. The recordings are collected through a web-based platform, where volunteers can contribute their voice by reading sentences aloud. The sentences are chosen at random from a collection of prompts, which ensures that the dataset is diverse and representative of different types of speech.
 
 The dataset is available for 96 languages but we will use the English split.
