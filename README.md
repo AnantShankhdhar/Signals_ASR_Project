@@ -4,7 +4,9 @@
 ## Team Name: Bandwidth ##
 
 ## Team Members: ##
-* Suryansh Singh 190101089 CSE Bachelors  * Anant Shankhdhar 190101011 CSE Bachelors  * Yashwardhan Modi 190101101 CSE Bachelors
+* Suryansh Singh 190101089 CSE Bachelors  
+* Anant Shankhdhar 190101011 CSE Bachelors
+* Yashwardhan Modi 190101101 CSE Bachelors
 
 ## Project Title: Voice Analytics Toolkit ##
 
